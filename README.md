@@ -16,7 +16,7 @@ A simple Flutter application that allows users to calculate their Body Mass Inde
 ![Result Screen](lib/assets/images/result_screen.jpg.jpg)
 
 ### Error Handling
-![Error Handling Screen](lib/assets/images/error_handling.jpg)
+![Error Handling Screen](lib/assets/images/error_handling.jpg.jpg)
 
 ## 🛠️ Technologies Used
 
